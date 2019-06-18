@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="search_btn">搜索</string>
+    <string name="singer_image">Singer Image</string>
+</resources>
